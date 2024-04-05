@@ -1,0 +1,42 @@
+.main{
+    background-image: url(backgrnd.png);
+    
+    background-size:cover ;
+}
+
+
+
+.nav{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    
+
+    
+
+}
+.logo{
+    display: flex;
+    align-items: center;
+    position: relative;
+    right:200px;
+    
+}
+.logo h4{
+    position: relative;
+    right:10px;
+}
+.home{
+    gap: 50px;
+    display: flex;
+    color: beige;
+}
+.keep{
+    justify-content: center;
+    display: flex;
+}
+.button{
+ display: flex;
+ justify-content: space-between;
+}
+    

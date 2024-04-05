@@ -1,0 +1,31 @@
+.ctl{
+    background-color: yellow;
+    border: 6px solid black;
+    height: 150px;
+    width: 150px;
+
+}
+#ol{
+    display: flex;
+    flex-wrap:  wrap-reverse;
+    justify-content:space-around;
+
+    background-color: brown;
+
+}
+#lap{
+    justify-content:space-evenly;
+    background-color: aquamarine;
+    flex-wrap: wrap;
+    display: flex;
+
+
+
+
+}
+.tl{
+    background-color: red;
+    border: 6px solid black;
+    height: 150px;
+    width: 150px;
+}

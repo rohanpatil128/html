@@ -1,0 +1,19 @@
+.h1{
+    background-color: beige;
+text-decoration:underline;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 30px;
+text-shadow: 4px 5px 25px grey;
+
+}
+.h2{
+
+
+    text-decoration: line-through;
+    text-shadow: 3px 5px 20px grey;
+     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+
+
+
+
+}

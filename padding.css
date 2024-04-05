@@ -1,0 +1,50 @@
+.demo{
+    background-color: aquamarine;
+    margin: 5px;
+    padding: 50px;
+/* line-height: 40px;
+ text-align: center;
+font-weight:bold;
+
+*/
+}
+#para{ line-height: 40px;
+font-weight: bold;
+font-style: italic;
+word-spacing: 10px;
+letter-spacing:;
+
+
+
+}
+#button{
+
+padding-left: 2px;
+padding-right: 2px;
+padding-top: 4px;
+padding-bottom: 4px;
+
+
+
+}
+
+
+
+
+
+
+#pp{
+    height: 300px;
+    width: 300px;
+    background-color: brown;
+    margin-top: 20px;
+    /*box-shadow: 5px 0px 20px 10px;*/
+    border-left: 4px solid black;
+
+
+
+    /*border-bottom-left-radius: 20px;
+border-top-left-radius: 30px;*/
+
+
+}   

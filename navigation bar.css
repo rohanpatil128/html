@@ -1,0 +1,19 @@
+.id{
+    background-color: pink;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: sticky;
+    top:0;
+}
+.id ul{
+
+gap: 50px;
+display: flex;
+
+}
+.id img{
+    position:relative;
+    left: -240px;
+
+}
